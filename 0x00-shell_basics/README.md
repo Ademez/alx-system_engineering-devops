@@ -1,1 +1,2 @@
-The scrip creates path
+#!/bin/bash
+my shell
