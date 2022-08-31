@@ -1,0 +1,1 @@
+The scrip creates path
